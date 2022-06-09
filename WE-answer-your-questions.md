@@ -16,6 +16,11 @@ Let's talk about it in a face-to-face conversation.
 
 Currently, there is no need to be in the office unless there are scheduled team meetings or special tasks that need to be completed on-site. There is a small chance that company policy will dictate a 50:50 arrangement in the future.  
 
+## Language?
+
+No swearing! ;) Naaa - kidding... Due to company requirements, we cannot completely avoid German. If something is difficult to explain in German, we manage wonderfully with English.  
+German is also the first choice for customer contact via the ticket system. In documentation, English is also okay and for commit and code comments we mainly use English.  
+
 ## Do only men work for you?
 
 Nope. We are happy to be a mixed team.  
