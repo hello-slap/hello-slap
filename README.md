@@ -24,9 +24,11 @@ In addition to system operation, we also develop and maintain our own small appl
 What we like most about working together is the friendly, appreciative, respectful and open atmosphere within the team. You can ask anyone anything. There are no stupid questions.  
 If you feel like it, we are happy to meet you (online or irl) and have fun together. No matter if it's for sports/leisure activities, gaming, going out for dinner or just the after work beer - there is no fixed agenda for it as long as it brings us joy. Of course, it's also totally okay if you don't want to join.  
 
+[Still curious? Then take a look here...](./WE-answer-your-questions.md)
+
 ## This is what we're looking for 🐱‍💻🤗
 
-You are a perfect fit for us if you are an open-minded, curious and willingly nerdy person who is interested in computer science, software development and how application software works.  
+You are a perfect fit for us if you are an open-minded, curious and willingly nerdy person who is interested in computer science, software development and how application software works. If something doesn't work the way it should, it won't leave you alone until you solve the puzzle - no matter if you find the solution by yourself or in collaboration with your teammates.  
 
 For us it is also important to value each other, to be open to diversity and against any kind of discrimination - so we are very happy if you share this attitude.
 
@@ -35,7 +37,7 @@ To get a rough idea of what you may have in your competency toolbox from a techn
 - [Software Developer](./YOU-want2join-as-dev.md)
 - [System Administrator or DevOps Specialist](./YOU-want2join-as-operator.md)
 
-Ideally, your interest doesn't end at the office door, but you also invest some of your free time in your own IT projects. Many of us have our own server-based applications at home, tinker with our smart homes, or develop our own small applications. We'd love to exchange ideas with you about such non-work related things. If you enjoy attending technical conferences, that's a plus, so your new colleagues can take advantage of the opportunity to participate and share together.
+Ideally, your interest doesn't end at the office door, but you also invest some of your free time in your own IT projects. Many of us run self-hosted applications at home, tinker with smart homes or develop own small applications. We'd love to exchange ideas with you about such non-work related things. If you enjoy attending technical conferences, that's a plus, so your new colleagues can take advantage of the opportunity to participate and share together.  
 
 ## Where do we go from here? 🐇
 
