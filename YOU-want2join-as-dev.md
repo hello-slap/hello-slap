@@ -41,20 +41,24 @@ _at least some of that would be nice_
 - Microsoft SQL Server
 - Microsoft SQL Server Reporting Services
 - Microsoft PowerBI
+- Microsoft Visio / DrawIO
+- PhotoShop / Pain.NET / GIMP
 
 _as for development experience: at least some of it would be good._  
 
 ## Interests
 
-- IoT
+- IoT (ESP 8266 / RasPi / EspEasy / MQTT / etc.)
 - Tinkering and Makers
 - Open Source Projects
+- Smart Home (Homematic, OpenHAB, FEHM, etc.)
+- Game Dev (Unity / Blender / etc.)
 - CCC
-- Smart Home
 - Alternative energies
 - Sustainability
 - Movies
 - SciFi
+- Fantasy
 - Computer Game pop culture
 
 _definitely not a must but a good conversation starter_
