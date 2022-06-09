@@ -33,7 +33,7 @@ For us it is also important to value each other, to be open to diversity and aga
 To get a rough idea of what you may have in your competency toolbox from a technical perspective, take a closer look at the profile descriptions:
 
 - [Software Developer](./YOU-want2join-as-dev.md)
-- [System Administrator or DevOp Specialist](./YOU-want2join-as-operator.md)
+- [System Administrator or DevOps Specialist](./YOU-want2join-as-operator.md)
 
 Ideally, your interest doesn't end at the office door, but you also invest some of your free time in your own IT projects. Many of us have our own server-based applications at home, tinker with our smart homes, or develop our own small applications. We'd love to exchange ideas with you about such non-work related things. If you enjoy attending technical conferences, that's a plus, so your new colleagues can take advantage of the opportunity to participate and share together.
 
