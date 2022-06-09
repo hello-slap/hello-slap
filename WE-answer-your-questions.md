@@ -12,7 +12,7 @@ On the whole, you can organize your time quite freely. There are a few occasions
 
 Let's talk about it in a face-to-face conversation.  
 
-## Do I have to work from the office?
+## Do you come into the office every day or can I work from home?
 
 Currently, there is no need to be in the office unless there are scheduled team meetings or special tasks that need to be completed on-site. There is a small chance that company policy will dictate a 50:50 arrangement in the future.  
 
@@ -22,7 +22,7 @@ Nope. We are happy to be a mixed team.
 
 ## After I started with you people, what is the onboarding like?
 
-It depends a bit wether you are hiring as a developer or a operator. But you'll definitely get a few weeks to get acquainted with everything first. In the daily you will certainly be there from the beginning, so that you can see everyone, get an impression of how we work and ask us questions.  
+It depends a bit wether you are hiring as a developer or an operator. But you'll definitely get a few weeks to get acquainted with everything first. In the daily meetings you will certainly be there from the beginning, so that you can see everyone, get an impression of how we work and ask us questions.  
 We will help you with all organizational issues - which will be quite a few - and will try to give you as much input as possible on the topics we want to entrust you with.  
 
 ## Is there permanent effort recording?
