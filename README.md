@@ -43,4 +43,4 @@ Ideally, your interest doesn't end at the office door, but you also invest some 
 
 Now that we've hopefully given you a good idea of who we are and what we're looking for, we've prepared a few little challenges that are primarily meant to be fun and awaken the puzzle lover in you.  
 
-[If you're still with us, you're good to go - so follow me down the rabbit hole....](./WE-love-puzzles.md) ;)  
+[If you're still with us, you're good to go - so follow us down the rabbit hole....](./WE-love-puzzles.md) ;)  
