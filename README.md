@@ -1,17 +1,17 @@
-# Hi, I’m @hello-slap...
+# Hi, we’re @hello-slap...
 
-**....or let's say I might be your new team. For now, just call me SLAP.**
+**....or let's say we might be your new team. For now, just call us SLAP.**
 
-- 👀 I’m glad to give you a glimpse of what we are looking for
-- 🌱 I’m currently hope to learn what we can do to make you become a member of SLAP
-- 💞️ I’m looking to collaborate with you to solve some tiny challenges together
-- 📫 You are free to reach out to me right here or mail to hello-slap@outlook.com
+- 👀 we’re pleased to introduce you to us
+- 🐱‍💻 we hope to inspire you to join our team
+- 💞️ we’re looking to collaborate with you to solve some tiny challenges together
+- 📫 you are free to reach out to us right here or mail to hello-slap@outlook.com
 
 ## Hi there and welcome! 👋
 
 We're so glad welcoming you right here. This profile is meant to get in touch with our potential new teammate. We're doing it this way, to get a perfect match for you as well as for us.  
 
-We have found that the traditional ways of recruiting, such as multiple interviews, letters of application and pre-selection based on CVs are difficult to reconcile with the expectations of both parties and in the worst case lead to unnecessary waste of time. We can't avoid the formalities completely but maybe we can shorten it a bit.  
+We have found that the traditional ways of recruiting, such as multiple interviews, letters of application and pre-selection based on CVs are difficult to reconcile with the expectations of both parties and in the worst case lead to unnecessary waste of time. On top of that, you only get a very superficial impression of what you're stumbling into. We would like to handle that differently. Sure thing - we can't avoid the formalities completely but maybe we can shorten it a bit.  
 
 So now we would like to introduce ourselves to you, let you dive a little bit into our world and learn more about the things you are passionate about.  
 
