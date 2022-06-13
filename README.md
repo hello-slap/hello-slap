@@ -9,7 +9,7 @@
 
 ## Hi there and welcome! 👋
 
-We're so glad welcoming you right here. This profile is meant to get in touch with our potential new teammate. We're doing it this way, to get a perfect match for you as well as for us.  
+It is our pleasure to welcome you here. This profile is meant to get in touch with our potential new teammate. We're doing it this way, to get a perfect match for you as well as for us.  
 
 We have found that the traditional ways of recruiting, such as multiple interviews, letters of application and pre-selection based on CVs are difficult to reconcile with the expectations of both parties and in the worst case lead to unnecessary waste of time. On top of that, you only get a very superficial impression of what you're stumbling into. We would like to handle that differently. Sure thing - we can't avoid the formalities completely but maybe we can shorten it a bit.  
 
