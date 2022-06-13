@@ -14,12 +14,12 @@ Whether you want to go with the one puzzle that interests you the most, or do a 
 
 ### Development
 
-🔜
+- [Fancy Pages](https://github.com/hello-slap/fancy-pages): HTML/CSS/JavaScript
 
 ### Operations
 
-🔜
+Coming soon 🔜
 
 ### Miscellaneous
 
-🔜
+Coming soon 🔜
