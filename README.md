@@ -2,7 +2,7 @@
 
 **....or let's say we might be your new team. For now, just call us SLAP.**
 
-- 💞️ we’re pleased to [introduce you to us](#this-is-us-)
+- 💞️ we’re pleased to [introduce ourselves to you](#this-is-us-)
 - 🐱‍💻 we hope to [inspire you to join our team](#this-is-what-were-looking-for-)
 - 👀 we’re looking to collaborate with you to [solve some tiny challenges together](#where-do-we-go-from-here-)
 - 📫 you are free to reach out to us right here or mail to hello-slap@outlook.com
