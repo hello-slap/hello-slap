@@ -34,12 +34,12 @@ You are a perfect fit for us if you are an open-minded, curious, creative and wi
 
 For us it is also important to value each other, to be open to diversity and against any kind of discrimination - so we are very happy if you share this attitude.  
 
-To get a rough idea of what you may have in your competency toolbox from a technical perspective, take a closer look at the profile descriptions:  
+To get a rough idea of what you may have in your toolbox from a technical perspective, take a closer look at the profile descriptions:  
 
 - [Software Developer](./YOU-want2join-as-dev.md)
 - [System Administrator or DevOps Specialist](./YOU-want2join-as-operator.md)
 
-If you enjoy attending technical conferences, that's a plus, so your new colleagues can take advantage of the opportunity to participate and share together.  
+If you are enjoying to level up your tech skills by attending conferences and workshops, that’s a plus, so your new colleagues will benefit from it by sharing your knowledge.  
 
 ## Where do we go from here? 🐇⁉
 
