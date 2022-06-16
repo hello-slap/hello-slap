@@ -26,7 +26,7 @@ If you feel like it, we are happy to meet you (online or irl) and have fun toget
 
 With us you will meet some people whose interest does not end at the office door, but who also invest part of their free time in their own small IT projects. We'd love to exchange ideas with you about such non-work related things.  
 
-[Still curious? Then take a look our FAQ...](./WE-answer-your-questions.md)
+[Still curious? Then take a look at our FAQ...](./WE-answer-your-questions.md)
 
 ## This is what we're looking for 🐱‍💻🤗
 
