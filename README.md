@@ -2,9 +2,9 @@
 
 **....or let's say we might be your new team. For now, just call us SLAP.**
 
-- 👀 we’re pleased to introduce you to us
-- 🐱‍💻 we hope to inspire you to join our team
-- 💞️ we’re looking to collaborate with you to solve some tiny challenges together
+- 💞️ we’re pleased to [introduce you to us](#this-is-us-)
+- 🐱‍💻 we hope to [inspire you to join our team](#this-is-what-were-looking-for-)
+- 👀 we’re looking to collaborate with you to [solve some tiny challenges together](#where-do-we-go-from-here-)
 - 📫 you are free to reach out to us right here or mail to hello-slap@outlook.com
 
 ## Hi there and welcome! 👋
@@ -22,25 +22,27 @@ We are a department within the IT of a large company that provides security solu
 In addition to system operation, we also develop and maintain our own small applications that are needed by our customers or serve to improve business processes inside or outside of IT. Mostly these are backend applications, automation stuff or frontend customizations for well-known tools. But don't expect to be a cog in the wheel of a classic ISV - our team members mostly remain responsible for their creations themselves.  
 
 What we like most about working together is the friendly, appreciative, respectful and open atmosphere within the team. You can ask anyone anything. There are no stupid questions.  
-If you feel like it, we are happy to meet you (online or irl) and have fun together. No matter if it's for sports/leisure activities, gaming, going out for dinner or just the after work beer - there is no fixed agenda for it as long as it brings us joy. Of course, it's also totally okay if you don't want to join.  
+If you feel like it, we are happy to meet you (online or irl) and have fun together. No matter if it's for leisure activities, going out for dinner, gaming or just the after work drink - there is no fixed agenda for it as long as it brings us joy. Of course, it's also totally okay if you don't want to join.  
 
-[Still curious? Then take a look here...](./WE-answer-your-questions.md)
+With us you will meet some people whose interest does not end at the office door, but who also invest part of their free time in their own small IT projects. We'd love to exchange ideas with you about such non-work related things.  
+
+[Still curious? Then take a look at our FAQ...](./WE-answer-your-questions.md)
 
 ## This is what we're looking for 🐱‍💻🤗
 
-You are a perfect fit for us if you are an open-minded, curious and willingly nerdy person who is interested in computer science, software development and how application software works. If something doesn't work the way it should, it won't leave you alone until you solve the puzzle - no matter if you find the solution by yourself or in collaboration with your teammates.  
+You are a perfect fit for us if you are an open-minded, curious, creative and willingly nerdy person who is interested in computer science, software development or how application software works. If something doesn't work the way it should, it won't leave you alone until you solve the puzzle - no matter if you find the solution by yourself or in collaboration with your teammates.  
 
-For us it is also important to value each other, to be open to diversity and against any kind of discrimination - so we are very happy if you share this attitude.
+For us it is also important to value each other, to be open to diversity and against any kind of discrimination - so we are very happy if you share this attitude.  
 
-To get a rough idea of what you may have in your competency toolbox from a technical perspective, take a closer look at the profile descriptions:
+To get a rough idea of what you may have in your toolbox from a technical perspective, take a closer look at the profile descriptions:  
 
 - [Software Developer](./YOU-want2join-as-dev.md)
 - [System Administrator or DevOps Specialist](./YOU-want2join-as-operator.md)
 
-Ideally, your interest doesn't end at the office door, but you also invest some of your free time in your own IT projects. Many of us run self-hosted applications at home, tinker with smart homes or develop own small applications. We'd love to exchange ideas with you about such non-work related things. If you enjoy attending technical conferences, that's a plus, so your new colleagues can take advantage of the opportunity to participate and share together.  
+If you are enjoying to level up your tech skills by attending conferences and workshops, that’s a plus, so your new colleagues will benefit from it by sharing your knowledge.  
 
-## Where do we go from here? 🐇
+## Where do we go from here? 🐇⁉
 
 Now that we've hopefully given you a good idea of who we are and what we're looking for, we've prepared a few little challenges that are primarily meant to be fun and awaken the puzzle lover in you.  
 
-[If you're still with us, you're good to go - so follow us down the rabbit hole....](./WE-love-puzzles.md) ;)  
+If you're still with us, you're good to go - **[so follow us down the rabbit hole....](./WE-love-puzzles.md)** ⬅  
