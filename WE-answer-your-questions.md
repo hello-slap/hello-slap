@@ -18,7 +18,7 @@ Currently, there is no need to be in the office unless there are scheduled team 
 
 ## Language?
 
-No swearing! ;) Naaa - kidding... Due to company requirements, we cannot completely avoid German. If something is difficult to explain in German, we manage wonderfully with English.  
+No swearing! ;) Naaa - just kidding... Due to company requirements, we cannot completely avoid German. If something is difficult to explain in German, we manage wonderfully with English.  
 German is also the first choice for customer contact via the ticket system. In documentation, English is also okay and for commit and code comments we mainly use English.  
 
 ## Do only men work for you?
