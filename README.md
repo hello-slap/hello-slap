@@ -30,7 +30,7 @@ With us you will meet some people whose interest does not end at the office door
 
 ## This is what we're looking for 🐱‍💻🤗
 
-You are a perfect fit for us if you are an open-minded, curious and willingly nerdy person who is interested in computer science, software development or how application software works. If something doesn't work the way it should, it won't leave you alone until you solve the puzzle - no matter if you find the solution by yourself or in collaboration with your teammates.  
+You are a perfect fit for us if you are an open-minded, curious, creative and willingly nerdy person who is interested in computer science, software development or how application software works. If something doesn't work the way it should, it won't leave you alone until you solve the puzzle - no matter if you find the solution by yourself or in collaboration with your teammates.  
 
 For us it is also important to value each other, to be open to diversity and against any kind of discrimination - so we are very happy if you share this attitude.  
 
