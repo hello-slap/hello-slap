@@ -18,7 +18,7 @@ Currently, there is no need to be in the office unless there are scheduled team 
 
 ## Language?
 
-No swearing! ;) Naaa - just kidding... Due to company requirements, we cannot completely avoid German. If something is difficult to explain in German, we manage wonderfully with English.  
+No swearing! ;) Naaa - just kidding... Due to company requirements, we cannot completely avoid German. If something is difficult to explain in German, we are managing it wonderfully in English.  
 German is also the first choice for customer contact via the ticket system. In documentation, English is also okay and for commit and code comments we mainly use English.  
 
 ## Do only men work for you?
@@ -27,7 +27,7 @@ Nope. We are happy to be a mixed team.
 
 ## After I started with you people, what is the onboarding like?
 
-It depends a bit wether you are hiring as a developer or an operator. But you'll definitely get a few weeks to get acquainted with everything first. In the daily meetings you will certainly be there from the beginning, so that you can see everyone, get an impression of how we work and ask us questions.  
+It depends a bit whether you are hiring as a developer or an operator. But you'll definitely get a few weeks to get acquainted with everything first. In the daily meetings you will certainly be there from the beginning, so that you can see everyone, get an impression of how we work and ask us questions.  
 We will help you with all organizational issues - which will be quite a few - and will try to give you as much input as possible on the topics we want to entrust you with.  
 
 ## Is there permanent effort recording?
