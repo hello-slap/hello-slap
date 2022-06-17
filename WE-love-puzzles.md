@@ -18,7 +18,7 @@ Whether you want to go with the one puzzle that interests you the most, or do a 
 
 ### Operations
 
-Coming soon 🔜
+- [Shell Yeah!](https://github.com/hello-slap/shell-yeah): PowerShell/Bash/CMD
 
 ### Miscellaneous
 
